@@ -48,7 +48,7 @@ body {
     max-width: 1245px;
     background: #001F2B;
     background-size: 901px 100%;
-    background-image: linear-gradient(270deg, rgba(0, 31, 43, 0.64) 0.11%, #001F2B 101.64%), url(./images/image\ 1.png);
+    background-image: linear-gradient(270deg, rgba(0, 31, 43, 0.64) 0.11%, #001F2B 101.64%), url(../images/image\ 1.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     border-radius: 0 0 15px 15px;
